@@ -1,0 +1,3 @@
+- Đoạn mã trong tệp Convert_image.py dùng để convert ảnh cho tập dữ liệu MNIST.
+- Đoạn mã trong tệp Deploying_CNN.py dùng để Triển khai mô hình học máy kiến trúc Convolutional Neural Network (CNN) dự đoán trên dữ liệu được mã hóa từ tập dữ liệu MNIST.
+- Đoạn mã trong tệp Training_and_Evaluation_LR.py dùng để Huấn luyện và đánh giá mô hình Logistic Regression trên dữ liệu được mã hóa.
